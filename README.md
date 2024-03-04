@@ -1,5 +1,5 @@
 ## Hey There! My Name is Ted 👋,
-#### The Short Version 😁
+#### <ins>The Short Version 😁</ins>
 
 I'm a Data Analyst and Voice-Over artist within a Plethora of Industries, currently in the Automotive Industry. 
 I have a Bachelor’s degree in Information Technology with various certifications in Data Science & Visualizations, alongside some in the Cybersecurity field.
@@ -12,8 +12,8 @@ Moreover, I enjoy storytelling around data, career, music and life in general.
 🏢 Find me on LinkedIn ➡︎ [@askoye](https://www.linkedin.com/in/askoye/)
 
 
-#### The Long Version 🥱
-##### Brief Overview of Who I am. 😎
+#### <ins>The Long Version 🥱</ins>
+##### <ins>Brief Overview of Who I am. 😎</ins>
 
 📝 About Me:
 - **Data Analysis & Project Management Expert** adept at driving business success through
